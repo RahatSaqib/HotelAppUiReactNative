@@ -153,13 +153,13 @@ const HomeScreen = ({navigation}) => {
       <View style={style.header}>
         <View style={{paddingBottom: 15}}>
           <Text style={{fontSize: 30, fontWeight: 'bold'}}>
-            Find your hotel
+            Explore your products in
           </Text>
           <View style={{flexDirection: 'row'}}>
             <Text style={{fontSize: 30, fontWeight: 'bold'}}>in </Text>
             <Text
               style={{fontSize: 30, fontWeight: 'bold', color: COLORS.primary}}>
-              Paris
+              Trendly
             </Text>
           </View>
         </View>
